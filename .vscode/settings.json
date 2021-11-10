@@ -1,0 +1,11 @@
+{
+  "editor.autoIndent": "none",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.renderLineHighlight": "gutter",
+  "editor.renderWhitespace": "all",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.minimap.enabled": false,
+  "cSpell.allowCompoundWords": true,
+  "indentRainbow.colorOnWhiteSpaceOnly": true
+}
